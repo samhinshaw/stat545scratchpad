@@ -1,0 +1,16 @@
+---
+title: 'STAT545 Scratchpad'
+output: 
+  html_document:
+    toc: TRUE
+    keep_md: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+Welcome to my notes for the 2016 semester of stat545. 
+
+********
+This page was last updated on  `r format(Sys.time(), '%A, %B %d, %Y')` at `r format(Sys.time(), '%I:%M%p')`
